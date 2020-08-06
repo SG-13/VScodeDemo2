@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
       <h1>
         Welcome!!
         this is line 1
+        this is line 2
       </h1>
      
     
